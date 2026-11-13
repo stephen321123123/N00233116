@@ -1,0 +1,11 @@
+CustomerID,TotalSpend,TotalPurchases,UniqueProducts,TransactionRecords,AgeGroup,Region,LoyaltyLevel,MembershipYears
+79,26046.02,89,18,33,26-35,South,Silver,2
+95,19797.8,87,18,30,26-35,West,Bronze,1
+553,9573.32,87,10,29,36-50,East,Gold,5
+373,25882.32,85,13,29,18-25,West,Silver,9
+831,17269.04,84,22,29,50+,West,Bronze,7
+265,8317.85,83,7,27,26-35,South,Gold,6
+971,32222.52,83,14,31,50+,South,Bronze,7
+340,9609.71,82,8,28,18-25,North,Bronze,9
+448,13576.84,82,5,29,26-35,South,Bronze,7
+227,28402.94,81,12,31,50+,North,Bronze,14

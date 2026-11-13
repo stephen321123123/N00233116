@@ -1,0 +1,11 @@
+ProductID,TotalRevenue,TotalPurchases,UniqueCustomers,Category,Brand,Price,Rating,PopularityScore
+114,601047.6799999999,1868,177,Fitness,TechMax,145.33,4.52,8
+43,582658.8,1340,160,Books,TechMax,398.33,3.52,1
+69,514355.19999999995,5120,174,Fitness,PrimeGoods,264.7,4.88,1
+70,472247.76,1132,145,Fitness,PrimeGoods,318.4,3.74,1
+102,441265.71,929,154,Home,PrimeGoods,491.37,4.86,1
+82,365394.36,5493,176,Kitchen,FitLife,92.81,4.92,3
+47,354199.83999999997,3044,154,Fitness,TechMax,459.34,2.99,5
+55,345413.52,738,140,Books,TechMax,16.52,3.59,1
+108,319176.06,703,123,Fitness,HomePro,89.13,3.81,1
+175,318951.6,660,128,Fitness,TechMax,373.97,2.65,1

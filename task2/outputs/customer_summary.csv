@@ -1,0 +1,1001 @@
+CustomerID,TotalSpend,TotalPurchases,UniqueProducts,TransactionRecords,AgeGroup,Region,LoyaltyLevel,MembershipYears,CustomerValue
+1,36.24,2,1,1,18-25,North,Bronze,1,Standard
+2,2028.8200000000002,7,2,2,18-25,East,Bronze,2,Standard
+3,200.92,2,1,1,50+,East,Bronze,5,Standard
+4,266.08,4,1,2,36-50,East,Silver,12,Standard
+5,999.87,3,1,1,26-35,East,Silver,13,Standard
+6,795.56,4,2,2,50+,East,Bronze,10,Standard
+7,388.14,2,1,1,36-50,South,Silver,5,Standard
+8,200.92,2,1,1,50+,West,Gold,6,Standard
+9,399.12,6,1,2,36-50,East,Bronze,12,Standard
+10,399.12,6,1,2,50+,West,Silver,13,Standard
+11,2441.65,7,2,2,36-50,South,Bronze,5,Standard
+12,579.03,3,1,1,26-35,East,Bronze,8,Standard
+13,361.38,1,1,1,36-50,South,Bronze,10,Standard
+14,643.52,2,1,1,26-35,West,Bronze,14,Standard
+15,363.95,1,1,1,50+,East,Bronze,12,Standard
+16,930.22,5,2,2,18-25,East,Silver,13,Standard
+17,1766.28,4,1,2,36-50,West,Bronze,8,Standard
+18,221.14000000000001,4,2,2,18-25,East,Bronze,12,Standard
+19,148.12,4,1,1,18-25,South,Silver,14,Standard
+20,965.28,3,1,1,26-35,East,Silver,9,Standard
+21,113.57,1,1,1,50+,West,Bronze,7,Standard
+22,399.12,6,1,2,26-35,East,Gold,4,Standard
+23,360.26,2,1,1,26-35,South,Silver,11,Standard
+24,199.92,1,1,1,36-50,West,Bronze,2,Standard
+25,755.8299999999999,3,2,2,26-35,South,Bronze,12,Standard
+26,703.22,7,1,2,18-25,West,Bronze,4,Standard
+27,391.92,1,1,1,26-35,North,Silver,3,Standard
+28,698.16,6,1,2,50+,West,Silver,9,Standard
+29,382.64,5,2,2,18-25,West,Bronze,14,Standard
+30,1927.36,4,1,1,50+,North,Gold,8,Standard
+31,321.76,1,1,1,50+,East,Bronze,10,Standard
+32,349.08,3,1,1,50+,North,Bronze,11,Standard
+33,199.56,3,1,1,26-35,East,Bronze,8,Standard
+34,2715.83,7,2,2,36-50,East,Gold,7,Standard
+35,975.3599999999999,4,2,2,36-50,East,Gold,13,Standard
+36,199.56,3,1,1,36-50,South,Silver,5,Standard
+37,776.28,4,1,1,36-50,West,Gold,2,Standard
+38,207.39,3,1,1,26-35,West,Gold,13,Standard
+39,200.92,2,1,1,36-50,South,Bronze,1,Standard
+40,2410.06,6,2,2,36-50,North,Silver,8,Standard
+41,2349.41,7,2,2,26-35,East,Bronze,12,Standard
+42,916.62,2,1,1,18-25,West,Bronze,7,Standard
+43,446.3,4,2,2,50+,North,Silver,3,Standard
+44,722.76,2,1,1,36-50,West,Silver,3,Standard
+45,1604.71,5,2,2,36-50,South,Bronze,10,Standard
+46,441.57,1,1,1,36-50,East,Gold,7,Standard
+47,1364.1,3,1,1,26-35,West,Bronze,5,Standard
+48,930.88,8,1,2,36-50,West,Gold,6,Standard
+49,1816.3400000000001,5,2,2,18-25,South,Bronze,4,Standard
+50,133.04,2,1,1,50+,East,Gold,7,Standard
+51,10057.82,32,10,15,18-25,West,Bronze,6,Standard
+52,15081.86,45,14,19,36-50,North,Silver,12,High Value
+53,2756.96,39,3,14,50+,East,Gold,5,Standard
+54,11161.07,37,8,14,50+,North,Bronze,13,Standard
+55,8884.69,38,9,13,18-25,South,Gold,12,Standard
+56,17332.5,53,13,20,18-25,South,Gold,13,High Value
+57,14828.66,57,15,26,36-50,West,Gold,10,Standard
+58,10223.73,39,9,15,36-50,South,Bronze,3,Standard
+59,12216.22,67,9,27,18-25,North,Gold,5,Standard
+60,10028.27,64,9,26,50+,South,Silver,9,Standard
+61,3486.77,48,4,18,50+,East,Bronze,3,Standard
+62,7966.65,62,9,24,26-35,North,Bronze,7,Standard
+63,17800.93,68,20,28,50+,South,Bronze,8,High Value
+64,12242.28,46,10,17,36-50,East,Gold,8,Standard
+65,6651.42,26,9,12,36-50,South,Bronze,14,Standard
+66,2439.97,39,3,15,18-25,West,Silver,9,Standard
+67,13868.96,50,14,21,26-35,East,Bronze,14,Standard
+68,8187.33,35,9,12,36-50,East,Silver,11,Standard
+69,12802.21,49,12,21,18-25,North,Silver,7,Standard
+70,7774.76,70,8,29,26-35,South,Bronze,13,Standard
+71,8139.3099999999995,53,5,20,26-35,West,Bronze,6,Standard
+72,14353.57,51,13,21,26-35,South,Silver,5,Standard
+73,20968.48,67,12,26,26-35,North,Gold,13,High Value
+74,5423.64,35,6,15,18-25,North,Bronze,4,Standard
+75,8161.71,31,7,11,26-35,West,Gold,11,Standard
+76,5215.14,37,5,15,26-35,East,Bronze,8,Standard
+77,12597.98,49,12,19,50+,North,Bronze,9,Standard
+78,14957.81,56,12,23,36-50,East,Silver,13,High Value
+79,26046.02,89,18,33,26-35,South,Silver,2,High Value
+80,22175.15,69,10,28,18-25,North,Bronze,1,High Value
+81,10489.66,32,11,14,36-50,North,Silver,4,Standard
+82,11190.17,52,13,20,36-50,West,Silver,5,Standard
+83,11883.87,42,11,14,18-25,North,Bronze,7,Standard
+84,8082.66,58,9,23,18-25,South,Silver,13,Standard
+85,2017.96,24,4,10,50+,North,Silver,14,Standard
+86,9003.46,75,9,28,50+,North,Bronze,11,Standard
+87,22683.39,62,10,22,36-50,East,Bronze,10,High Value
+88,2713.06,32,3,15,26-35,South,Bronze,14,Standard
+89,20493.829999999998,58,13,21,36-50,East,Bronze,8,High Value
+90,11637.650000000001,48,12,15,18-25,East,Silver,1,Standard
+91,10250.16,57,16,26,26-35,East,Bronze,7,Standard
+92,6685.32,56,6,21,18-25,West,Bronze,4,Standard
+93,19010.67,62,13,24,50+,West,Bronze,3,High Value
+94,12126.2,71,10,28,50+,North,Gold,7,Standard
+95,19797.8,87,18,30,26-35,West,Bronze,1,High Value
+96,20509.52,65,15,24,36-50,East,Bronze,4,High Value
+97,11313.67,64,5,21,18-25,South,Bronze,2,Standard
+98,9957.0,54,7,23,50+,East,Gold,4,Standard
+99,12040.369999999999,35,11,15,36-50,North,Bronze,14,Standard
+100,17805.36,64,17,25,26-35,North,Silver,6,High Value
+101,15996.72,72,11,27,50+,West,Bronze,8,High Value
+102,9741.68,63,6,22,50+,East,Bronze,4,Standard
+103,8346.69,26,9,14,50+,North,Gold,2,Standard
+104,10369.449999999999,67,7,25,26-35,North,Bronze,14,Standard
+105,5825.76,58,5,23,26-35,South,Bronze,13,Standard
+106,21349.62,56,11,24,26-35,South,Bronze,8,High Value
+107,24938.51,69,13,28,36-50,West,Gold,10,High Value
+108,23854.89,68,14,25,26-35,South,Silver,6,High Value
+109,20386.92,57,15,24,36-50,West,Silver,11,High Value
+110,8883.06,41,7,15,50+,North,Bronze,13,Standard
+111,11674.58,59,14,21,36-50,East,Silver,13,Standard
+112,5324.24,32,4,15,50+,North,Gold,5,Standard
+113,3974.66,39,5,16,18-25,East,Silver,8,Standard
+114,17897.94,57,14,24,26-35,West,Gold,1,High Value
+115,22511.45,72,12,25,18-25,North,Silver,7,High Value
+116,11100.7,70,7,28,18-25,East,Bronze,14,Standard
+117,17296.36,64,14,24,18-25,South,Bronze,12,High Value
+118,10678.06,37,13,16,36-50,North,Bronze,12,Standard
+119,12320.0,57,11,22,26-35,South,Bronze,12,Standard
+120,12221.789999999999,36,10,15,18-25,North,Silver,4,Standard
+121,7884.34,49,7,21,50+,South,Bronze,14,Standard
+122,2960.67,37,5,14,36-50,East,Bronze,4,Standard
+123,16242.42,48,12,22,18-25,South,Gold,13,High Value
+124,3386.8,40,4,17,18-25,North,Bronze,4,Standard
+125,10988.380000000001,67,9,27,26-35,South,Gold,1,Standard
+126,9211.6,56,5,20,36-50,East,Bronze,2,Standard
+127,13966.42,67,12,24,18-25,North,Bronze,3,Standard
+128,2428.6099999999997,38,2,13,18-25,West,Bronze,14,Standard
+129,8069.63,41,11,15,36-50,South,Silver,7,Standard
+130,22552.3,75,15,28,18-25,West,Bronze,10,High Value
+131,6403.8,37,9,16,36-50,South,Bronze,1,Standard
+132,7953.7,54,4,20,26-35,North,Bronze,7,Standard
+133,8963.18,47,8,16,18-25,East,Bronze,4,Standard
+134,20398.19,70,13,27,18-25,West,Bronze,11,High Value
+135,7730.4800000000005,28,8,11,36-50,West,Bronze,3,Standard
+136,24240.98,69,14,29,50+,North,Silver,10,High Value
+137,7347.38,45,9,18,36-50,West,Bronze,12,Standard
+138,10274.74,30,9,12,18-25,North,Gold,3,Standard
+139,7882.139999999999,46,6,18,26-35,East,Bronze,2,Standard
+140,4425.04,33,5,12,50+,South,Gold,5,Standard
+141,11114.45,59,9,24,26-35,South,Bronze,4,Standard
+142,13416.939999999999,51,13,20,50+,East,Bronze,1,Standard
+143,5004.47,24,3,10,36-50,North,Silver,4,Standard
+144,5196.07,29,8,11,36-50,North,Bronze,12,Standard
+145,13848.66,46,14,18,26-35,South,Bronze,11,Standard
+146,2451.2799999999997,26,5,11,50+,West,Bronze,6,Standard
+147,6748.49,54,7,22,26-35,East,Bronze,9,Standard
+148,11918.39,45,13,20,26-35,West,Bronze,2,Standard
+149,19649.03,69,13,26,36-50,East,Silver,11,High Value
+150,11807.83,72,7,29,36-50,North,Silver,8,Standard
+151,16089.17,60,13,26,26-35,North,Silver,5,High Value
+152,12253.76,43,13,16,18-25,North,Bronze,2,Standard
+153,6996.88,54,5,22,50+,East,Silver,6,Standard
+154,3380.0,26,5,12,18-25,South,Silver,7,Standard
+155,8059.78,37,6,15,18-25,East,Silver,9,Standard
+156,4192.0199999999995,34,8,15,18-25,South,Silver,11,Standard
+157,18593.18,64,15,25,26-35,North,Gold,12,High Value
+158,11474.22,64,7,24,36-50,South,Gold,13,Standard
+159,11411.52,43,9,16,36-50,North,Bronze,8,Standard
+160,9747.61,49,11,19,36-50,East,Bronze,1,Standard
+161,10859.44,61,6,21,18-25,North,Gold,1,Standard
+162,13223.119999999999,54,12,27,36-50,East,Bronze,3,Standard
+163,5675.849999999999,48,5,18,36-50,East,Bronze,12,Standard
+164,9067.69,55,9,26,36-50,East,Gold,11,Standard
+165,5501.13,29,7,14,50+,South,Silver,11,Standard
+166,12475.36,71,11,28,26-35,South,Silver,2,Standard
+167,5761.7300000000005,41,4,18,50+,East,Bronze,7,Standard
+168,11657.11,43,10,17,36-50,West,Bronze,6,Standard
+169,15636.91,51,10,19,18-25,West,Bronze,2,High Value
+170,15830.81,61,13,24,18-25,South,Gold,2,High Value
+171,8803.869999999999,29,10,12,36-50,South,Gold,7,Standard
+172,12536.98,72,5,26,50+,North,Silver,9,Standard
+173,5095.89,38,6,12,26-35,East,Bronze,3,Standard
+174,29802.65,78,12,25,36-50,West,Silver,4,High Value
+175,14488.42,57,12,22,50+,West,Silver,8,Standard
+176,8393.6,47,13,23,50+,South,Silver,2,Standard
+177,2550.58,33,2,13,26-35,South,Bronze,8,Standard
+178,17069.35,48,13,22,50+,West,Bronze,1,High Value
+179,24794.45,76,15,29,18-25,West,Silver,2,High Value
+180,9425.46,55,8,22,26-35,West,Gold,11,Standard
+181,6605.67,39,6,17,36-50,South,Bronze,1,Standard
+182,3509.96,30,4,10,18-25,East,Bronze,10,Standard
+183,9031.96,47,6,20,36-50,North,Gold,4,Standard
+184,28213.86,80,13,28,18-25,East,Bronze,2,High Value
+185,8644.47,33,10,14,36-50,West,Bronze,4,Standard
+186,2524.73,35,2,13,26-35,East,Bronze,11,Standard
+187,3423.58,34,4,12,36-50,North,Gold,11,Standard
+188,9022.4,28,9,11,50+,East,Silver,4,Standard
+189,11540.45,50,11,20,26-35,South,Gold,1,Standard
+190,10787.56,36,12,17,18-25,West,Bronze,1,Standard
+191,10651.24,33,8,12,50+,South,Bronze,1,Standard
+192,6121.7,28,5,12,18-25,South,Bronze,11,Standard
+193,7230.99,55,6,25,26-35,West,Silver,7,Standard
+194,13780.79,45,13,17,26-35,North,Gold,1,Standard
+195,7485.66,44,7,17,18-25,North,Gold,6,Standard
+196,16347.87,60,15,23,50+,South,Bronze,5,High Value
+197,10296.97,67,13,29,26-35,South,Bronze,5,Standard
+198,9699.77,35,9,14,36-50,North,Bronze,6,Standard
+199,17340.38,50,15,23,26-35,West,Bronze,3,High Value
+200,7801.2699999999995,46,4,18,26-35,South,Silver,13,Standard
+201,5952.25,32,6,12,26-35,North,Bronze,6,Standard
+202,10402.58,39,7,12,36-50,South,Bronze,2,Standard
+203,11358.87,43,13,19,36-50,South,Gold,4,Standard
+204,22692.23,79,15,29,36-50,West,Silver,3,High Value
+205,7950.47,38,9,14,18-25,South,Silver,5,Standard
+206,17232.3,66,21,29,36-50,South,Bronze,3,High Value
+207,6649.46,45,7,19,50+,West,Bronze,7,Standard
+208,2320.21,35,4,13,26-35,South,Silver,2,Standard
+209,6651.97,42,5,19,50+,North,Silver,1,Standard
+210,11288.93,68,9,27,36-50,West,Silver,4,Standard
+211,22052.57,68,13,28,50+,East,Bronze,10,High Value
+212,6610.73,35,7,13,36-50,South,Gold,10,Standard
+213,7316.18,31,7,12,36-50,East,Gold,3,Standard
+214,23925.21,66,13,24,50+,South,Gold,14,High Value
+215,19112.46,47,9,22,18-25,East,Gold,11,High Value
+216,4676.97,50,4,20,18-25,North,Silver,14,Standard
+217,4639.78,27,4,11,36-50,North,Gold,13,Standard
+218,19798.14,57,12,24,26-35,West,Gold,14,High Value
+219,12811.880000000001,60,10,23,18-25,East,Gold,7,Standard
+220,6902.59,43,9,19,18-25,South,Gold,3,Standard
+221,11443.48,38,11,17,50+,North,Gold,4,Standard
+222,10475.23,53,10,19,18-25,East,Silver,6,Standard
+223,4201.26,32,5,15,18-25,North,Silver,13,Standard
+224,20062.66,74,17,26,26-35,North,Bronze,6,High Value
+225,13371.08,52,10,20,50+,North,Bronze,6,Standard
+226,13920.84,35,8,13,36-50,East,Gold,8,Standard
+227,28402.94,81,12,31,50+,North,Bronze,14,High Value
+228,5945.8,25,4,10,18-25,North,Silver,1,Standard
+229,11278.96,69,11,27,36-50,North,Gold,5,Standard
+230,14716.939999999999,48,8,15,50+,West,Gold,14,Standard
+231,25427.86,70,15,26,50+,South,Bronze,8,High Value
+232,13523.84,65,10,28,36-50,South,Bronze,7,Standard
+233,26153.76,68,13,26,26-35,East,Bronze,4,High Value
+234,16885.67,49,13,19,50+,North,Gold,7,High Value
+235,19826.77,55,11,17,50+,East,Silver,8,High Value
+236,22511.03,60,11,24,18-25,South,Silver,1,High Value
+237,8121.6900000000005,21,9,12,18-25,North,Gold,5,Standard
+238,8653.2,45,7,17,36-50,West,Silver,9,Standard
+239,4842.05,24,3,10,18-25,South,Bronze,3,Standard
+240,22461.94,76,16,30,26-35,West,Silver,11,High Value
+241,10861.26,41,12,18,26-35,South,Bronze,1,Standard
+242,13231.49,45,12,16,36-50,North,Bronze,1,Standard
+243,5695.139999999999,34,5,13,36-50,South,Gold,2,Standard
+244,21130.07,79,16,28,18-25,North,Bronze,14,High Value
+245,18375.03,55,13,23,26-35,West,Bronze,8,High Value
+246,4059.44,21,4,10,18-25,North,Bronze,4,Standard
+247,9001.36,31,10,14,50+,North,Bronze,11,Standard
+248,7564.09,43,7,20,36-50,West,Bronze,14,Standard
+249,16315.59,50,8,21,50+,West,Bronze,2,High Value
+250,4635.4,32,4,12,36-50,East,Silver,2,Standard
+251,13684.77,55,12,21,36-50,West,Gold,4,Standard
+252,3850.6,37,5,14,50+,East,Bronze,1,Standard
+253,12250.869999999999,44,10,17,36-50,South,Silver,5,Standard
+254,3345.72,44,5,16,36-50,East,Silver,5,Standard
+255,18637.61,50,12,18,26-35,North,Silver,1,High Value
+256,21824.489999999998,55,10,22,26-35,North,Bronze,3,High Value
+257,2715.22,24,4,10,18-25,West,Silver,14,Standard
+258,12413.35,62,10,24,36-50,North,Bronze,6,Standard
+259,7447.28,25,6,11,18-25,South,Bronze,6,Standard
+260,11674.52,34,8,12,26-35,South,Silver,6,Standard
+261,17590.97,54,11,22,18-25,West,Silver,14,High Value
+262,17075.7,63,17,21,18-25,West,Gold,3,High Value
+263,20097.239999999998,63,14,21,18-25,East,Bronze,11,High Value
+264,19320.59,56,9,22,50+,West,Silver,2,High Value
+265,8317.85,83,7,27,26-35,South,Gold,6,Standard
+266,9332.06,26,8,10,50+,West,Gold,9,Standard
+267,13242.95,61,16,29,36-50,East,Gold,12,Standard
+268,8522.38,44,4,16,26-35,East,Bronze,3,Standard
+269,3541.23,20,6,10,50+,North,Bronze,5,Standard
+270,8876.16,65,10,26,18-25,South,Gold,9,Standard
+271,21652.46,55,8,18,50+,South,Bronze,9,High Value
+272,3032.37,25,4,13,18-25,West,Silver,14,Standard
+273,7008.0599999999995,58,10,24,18-25,East,Bronze,12,Standard
+274,13329.23,49,7,21,26-35,East,Bronze,12,Standard
+275,6631.95,26,10,13,36-50,East,Bronze,7,Standard
+276,5237.18,29,6,12,50+,North,Silver,4,Standard
+277,21495.89,70,15,29,26-35,North,Gold,3,High Value
+278,9093.13,76,9,29,36-50,South,Bronze,11,Standard
+279,8982.52,34,9,12,18-25,South,Bronze,3,Standard
+280,16547.47,60,16,23,18-25,East,Silver,4,High Value
+281,10873.38,61,13,26,36-50,South,Gold,7,Standard
+282,12447.960000000001,52,8,21,50+,South,Bronze,4,Standard
+283,4425.55,39,4,15,26-35,East,Gold,5,Standard
+284,9059.949999999999,79,5,28,50+,East,Silver,6,Standard
+285,6809.95,41,9,17,36-50,South,Silver,7,Standard
+286,6131.98,52,8,21,18-25,South,Bronze,3,Standard
+287,22849.15,71,13,24,50+,North,Bronze,4,High Value
+288,17664.77,49,13,17,18-25,North,Gold,2,High Value
+289,24308.18,73,16,24,50+,East,Bronze,6,High Value
+290,9558.07,45,7,16,36-50,South,Bronze,11,Standard
+291,19644.11,57,8,24,50+,North,Gold,5,High Value
+292,16621.11,52,11,20,26-35,West,Bronze,11,High Value
+293,2938.83,20,4,11,50+,North,Silver,12,Standard
+294,7595.43,23,10,12,18-25,West,Silver,7,Standard
+295,8734.57,39,12,16,50+,North,Bronze,3,Standard
+296,7438.98,49,7,18,18-25,West,Bronze,12,Standard
+297,12956.449999999999,76,7,29,36-50,South,Bronze,10,Standard
+298,21357.26,68,14,25,50+,North,Bronze,5,High Value
+299,11782.97,35,10,17,18-25,South,Silver,9,Standard
+300,6678.21,26,8,10,50+,South,Bronze,7,Standard
+301,22890.5,68,13,26,18-25,North,Gold,5,High Value
+302,13485.46,47,12,22,18-25,West,Silver,6,Standard
+303,6440.9,40,8,17,36-50,South,Bronze,3,Standard
+304,14389.92,61,11,22,26-35,West,Bronze,1,Standard
+305,17191.91,45,10,18,50+,West,Bronze,14,High Value
+306,15269.699999999999,70,18,29,26-35,South,Bronze,2,High Value
+307,8163.969999999999,49,6,16,36-50,South,Silver,11,Standard
+308,13713.73,58,9,22,36-50,East,Bronze,2,Standard
+309,25005.31,79,13,29,50+,West,Silver,6,High Value
+310,10590.93,34,9,14,18-25,East,Gold,14,Standard
+311,16986.16,62,12,27,36-50,East,Silver,8,High Value
+312,8737.05,25,7,11,50+,North,Bronze,9,Standard
+313,12428.55,57,5,25,50+,South,Gold,14,Standard
+314,8894.79,27,10,14,26-35,South,Bronze,13,Standard
+315,7554.99,46,7,15,36-50,East,Gold,1,Standard
+316,4897.389999999999,48,5,17,26-35,East,Bronze,7,Standard
+317,10372.28,34,11,13,50+,North,Silver,13,Standard
+318,6211.68,51,5,17,50+,North,Bronze,10,Standard
+319,12438.07,55,9,26,50+,West,Bronze,10,Standard
+320,6997.43,30,10,13,26-35,West,Bronze,6,Standard
+321,18334.329999999998,52,13,19,36-50,South,Bronze,8,High Value
+322,9800.89,51,7,22,18-25,East,Bronze,9,Standard
+323,7448.84,41,7,18,36-50,North,Bronze,3,Standard
+324,14603.029999999999,78,7,28,50+,West,Bronze,13,Standard
+325,11114.7,56,11,23,36-50,East,Bronze,6,Standard
+326,5090.46,21,7,11,50+,East,Gold,13,Standard
+327,10184.84,38,10,15,26-35,North,Silver,8,Standard
+328,13643.92,51,12,19,36-50,North,Gold,14,Standard
+329,9680.8,37,9,17,26-35,West,Gold,9,Standard
+330,19511.44,51,12,20,36-50,North,Bronze,1,High Value
+331,12117.64,62,9,25,36-50,North,Bronze,13,Standard
+332,11944.68,77,7,28,50+,East,Bronze,3,Standard
+333,6407.79,21,7,11,18-25,West,Bronze,9,Standard
+334,15431.55,50,13,23,18-25,West,Bronze,11,High Value
+335,24731.61,68,16,28,36-50,East,Bronze,11,High Value
+336,15065.38,45,9,18,18-25,East,Silver,14,High Value
+337,6350.69,27,8,10,18-25,East,Bronze,11,Standard
+338,4353.42,33,11,16,18-25,South,Bronze,11,Standard
+339,7000.38,38,7,12,26-35,East,Silver,13,Standard
+340,9609.71,82,8,28,18-25,North,Bronze,9,Standard
+341,5158.78,40,4,14,18-25,North,Bronze,13,Standard
+342,19996.48,56,12,23,36-50,West,Silver,9,High Value
+343,11862.3,52,8,19,18-25,North,Silver,13,Standard
+344,11703.11,60,7,27,26-35,West,Silver,1,Standard
+345,4179.38,29,2,12,36-50,East,Gold,8,Standard
+346,14591.34,55,13,25,50+,North,Bronze,8,Standard
+347,12175.94,73,8,27,36-50,West,Gold,3,Standard
+348,10342.88,35,5,13,50+,West,Silver,9,Standard
+349,20320.2,60,17,26,26-35,South,Gold,1,High Value
+350,8973.66,39,10,16,26-35,North,Silver,12,Standard
+351,5146.75,35,4,14,18-25,East,Silver,8,Standard
+352,19163.87,59,15,25,50+,West,Silver,8,High Value
+353,11496.39,44,8,15,26-35,East,Bronze,11,Standard
+354,14411.699999999999,41,9,19,50+,West,Gold,7,Standard
+355,5153.16,18,6,10,26-35,West,Bronze,7,Standard
+356,3775.3199999999997,23,6,10,36-50,South,Bronze,11,Standard
+357,23099.32,69,15,27,18-25,North,Bronze,8,High Value
+358,12444.98,64,13,26,18-25,East,Bronze,13,Standard
+359,12605.56,37,10,13,26-35,East,Silver,8,Standard
+360,2965.31,22,5,10,36-50,West,Silver,9,Standard
+361,10319.25,35,12,16,26-35,South,Bronze,12,Standard
+362,4483.06,34,5,14,26-35,West,Silver,9,Standard
+363,6065.57,42,7,16,18-25,West,Gold,6,Standard
+364,7017.88,65,8,28,36-50,North,Gold,9,Standard
+365,8184.889999999999,31,9,11,26-35,South,Silver,7,Standard
+366,12340.51,70,8,26,26-35,North,Bronze,13,Standard
+367,23166.91,66,14,22,18-25,West,Bronze,11,High Value
+368,2108.86,23,6,10,36-50,South,Bronze,12,Standard
+369,11165.279999999999,33,8,14,18-25,North,Bronze,7,Standard
+370,11395.67,41,14,18,36-50,North,Bronze,11,Standard
+371,13111.71,50,8,19,36-50,West,Silver,7,Standard
+372,9532.52,32,9,11,26-35,East,Bronze,9,Standard
+373,25882.32,85,13,29,18-25,West,Silver,9,High Value
+374,5060.6,26,7,10,18-25,North,Gold,5,Standard
+375,13311.64,56,5,22,26-35,West,Gold,2,Standard
+376,20002.6,60,14,22,18-25,North,Bronze,7,High Value
+377,5386.67,55,7,22,18-25,North,Bronze,2,Standard
+378,3890.04,35,6,17,18-25,North,Silver,11,Standard
+379,12741.26,69,9,28,50+,North,Gold,3,Standard
+380,7502.66,38,5,14,18-25,West,Silver,5,Standard
+381,10646.789999999999,57,8,21,26-35,South,Silver,13,Standard
+382,19575.45,74,17,32,36-50,West,Gold,4,High Value
+383,6357.679999999999,43,8,18,18-25,East,Silver,8,Standard
+384,10424.81,46,8,21,36-50,North,Gold,14,Standard
+385,12339.02,42,14,21,36-50,East,Silver,9,Standard
+386,2884.17,44,5,15,50+,South,Silver,7,Standard
+387,8615.09,54,5,20,50+,South,Gold,9,Standard
+388,1938.8999999999999,25,3,14,50+,East,Gold,3,Standard
+389,6523.28,30,7,12,50+,East,Bronze,12,Standard
+390,7034.1,25,7,11,50+,South,Gold,9,Standard
+391,4097.66,28,5,13,26-35,East,Silver,9,Standard
+392,9156.36,33,8,13,36-50,East,Bronze,6,Standard
+393,14130.24,47,10,20,18-25,West,Gold,11,Standard
+394,19912.82,64,12,28,18-25,North,Bronze,5,High Value
+395,8762.75,36,11,15,26-35,West,Bronze,14,Standard
+396,13440.07,40,11,16,50+,West,Gold,7,Standard
+397,13078.01,45,10,17,50+,East,Silver,11,Standard
+398,14572.23,73,9,26,50+,South,Silver,12,Standard
+399,10385.05,54,11,22,50+,East,Bronze,14,Standard
+400,4270.33,30,7,12,50+,West,Gold,5,Standard
+401,12654.48,66,6,29,36-50,West,Bronze,2,Standard
+402,10588.15,49,8,19,50+,East,Gold,14,Standard
+403,5858.62,26,4,11,36-50,East,Gold,2,Standard
+404,4847.17,40,3,15,36-50,North,Bronze,2,Standard
+405,9058.98,52,9,20,18-25,West,Bronze,6,Standard
+406,8897.93,27,9,10,18-25,North,Bronze,11,Standard
+407,7821.599999999999,62,7,23,18-25,South,Bronze,6,Standard
+408,5372.57,33,8,18,36-50,South,Silver,1,Standard
+409,25124.16,75,15,27,26-35,West,Bronze,6,High Value
+410,9774.21,30,6,13,50+,North,Gold,9,Standard
+411,12781.09,30,9,12,50+,West,Bronze,1,Standard
+412,12850.1,68,9,29,50+,East,Bronze,9,Standard
+413,21019.51,78,13,29,18-25,South,Bronze,2,High Value
+414,11584.72,40,9,16,50+,South,Gold,8,Standard
+415,2623.58,25,7,14,36-50,South,Silver,9,Standard
+416,14488.25,48,9,24,36-50,East,Silver,4,Standard
+417,6427.48,22,7,10,18-25,East,Bronze,3,Standard
+418,7531.150000000001,53,7,23,36-50,South,Bronze,6,Standard
+419,8859.61,51,6,21,26-35,West,Silver,13,Standard
+420,14809.98,60,6,23,18-25,North,Silver,8,Standard
+421,21125.72,69,12,29,26-35,North,Bronze,12,High Value
+422,12815.27,37,11,15,26-35,West,Bronze,4,Standard
+423,6494.36,21,4,11,50+,West,Bronze,2,Standard
+424,20080.77,71,13,28,50+,North,Bronze,5,High Value
+425,18026.5,60,10,25,36-50,West,Bronze,2,High Value
+426,12516.42,66,10,25,26-35,West,Bronze,8,Standard
+427,15257.34,63,13,26,36-50,West,Bronze,2,High Value
+428,6388.3,32,6,16,36-50,North,Bronze,8,Standard
+429,12245.6,41,10,15,26-35,South,Bronze,10,Standard
+430,17215.84,64,13,28,50+,South,Gold,11,High Value
+431,13318.93,76,8,30,36-50,South,Bronze,14,Standard
+432,11718.09,51,14,21,18-25,South,Silver,1,Standard
+433,8126.849999999999,65,4,21,18-25,West,Silver,14,Standard
+434,26933.14,68,14,28,26-35,South,Silver,12,High Value
+435,2735.45,35,3,14,36-50,North,Bronze,8,Standard
+436,5095.42,27,5,11,18-25,West,Bronze,4,Standard
+437,5511.9400000000005,32,9,14,18-25,West,Silver,1,Standard
+438,8037.97,23,9,14,18-25,West,Bronze,8,Standard
+439,3321.81,27,3,11,26-35,North,Silver,14,Standard
+440,7070.15,55,7,24,36-50,East,Bronze,3,Standard
+441,9022.72,29,8,12,36-50,East,Gold,2,Standard
+442,18825.13,51,13,17,26-35,East,Bronze,8,High Value
+443,4419.94,43,6,17,36-50,South,Bronze,6,Standard
+444,4029.64,36,5,13,26-35,West,Silver,12,Standard
+445,22977.7,72,16,29,26-35,East,Bronze,9,High Value
+446,5862.0599999999995,33,10,11,18-25,South,Silver,8,Standard
+447,13089.86,40,11,18,50+,West,Silver,9,Standard
+448,13576.84,82,5,29,26-35,South,Bronze,7,Standard
+449,12969.63,43,10,15,26-35,South,Bronze,7,Standard
+450,14169.74,75,11,28,36-50,East,Bronze,6,Standard
+451,19823.079999999998,59,15,24,26-35,West,Silver,5,High Value
+452,7775.48,24,9,12,18-25,North,Bronze,2,Standard
+453,9109.83,33,12,14,26-35,East,Silver,10,Standard
+454,9973.12,30,7,11,18-25,West,Gold,10,Standard
+455,7154.66,44,7,17,36-50,East,Bronze,11,Standard
+456,7682.18,66,8,27,36-50,South,Bronze,6,Standard
+457,12035.26,36,13,15,36-50,West,Silver,11,Standard
+458,10977.22,39,13,17,26-35,East,Silver,8,Standard
+459,11345.15,39,11,16,26-35,East,Bronze,1,Standard
+460,8586.69,28,13,15,36-50,North,Gold,11,Standard
+461,7190.93,26,8,14,36-50,East,Bronze,7,Standard
+462,14885.97,47,9,16,36-50,East,Bronze,3,Standard
+463,19762.32,62,11,24,50+,East,Gold,9,High Value
+464,7388.1,51,8,25,36-50,West,Bronze,8,Standard
+465,11589.710000000001,38,13,18,26-35,West,Bronze,7,Standard
+466,12054.2,64,12,27,26-35,South,Bronze,13,Standard
+467,15236.58,63,10,22,26-35,East,Bronze,14,High Value
+468,15928.4,51,10,19,18-25,East,Bronze,9,High Value
+469,6181.43,52,7,20,50+,West,Bronze,2,Standard
+470,17969.27,58,13,20,26-35,West,Bronze,12,High Value
+471,7227.38,39,8,13,18-25,West,Silver,14,Standard
+472,15752.62,67,19,31,36-50,South,Bronze,13,High Value
+473,17443.1,68,14,26,26-35,East,Gold,11,High Value
+474,7079.42,41,3,14,18-25,West,Silver,7,Standard
+475,16352.24,47,13,22,50+,South,Bronze,7,High Value
+476,12375.43,63,10,22,50+,East,Bronze,5,Standard
+477,12330.58,48,12,18,36-50,East,Bronze,11,Standard
+478,7021.2699999999995,36,4,15,18-25,East,Bronze,13,Standard
+479,20263.54,67,12,26,36-50,East,Bronze,2,High Value
+480,11576.82,36,8,11,18-25,East,Silver,1,Standard
+481,10407.77,37,13,17,26-35,South,Silver,1,Standard
+482,8110.05,47,8,21,26-35,South,Gold,9,Standard
+483,6974.58,35,7,15,50+,South,Bronze,1,Standard
+484,20382.21,68,12,27,18-25,East,Bronze,14,High Value
+485,3341.97,54,4,22,36-50,South,Bronze,8,Standard
+486,7295.54,32,8,13,36-50,East,Bronze,8,Standard
+487,25422.62,69,13,27,50+,West,Bronze,1,High Value
+488,8375.66,37,8,15,18-25,East,Bronze,5,Standard
+489,9774.38,53,8,21,26-35,North,Gold,9,Standard
+490,22349.44,68,15,29,18-25,West,Silver,4,High Value
+491,7239.639999999999,38,6,16,50+,East,Gold,10,Standard
+492,2421.57,25,6,13,26-35,South,Silver,9,Standard
+493,23306.9,77,14,24,50+,North,Bronze,6,High Value
+494,4532.12,27,5,11,26-35,West,Silver,2,Standard
+495,10802.48,53,12,22,50+,East,Bronze,11,Standard
+496,9523.45,44,11,17,50+,West,Silver,1,Standard
+497,11167.77,65,7,25,26-35,East,Bronze,5,Standard
+498,18077.21,56,16,21,50+,South,Bronze,13,High Value
+499,8955.65,32,9,12,36-50,North,Silver,6,Standard
+500,16962.4,51,12,22,50+,North,Silver,13,High Value
+501,8598.39,33,7,13,50+,West,Gold,8,Standard
+502,16818.68,75,20,29,18-25,West,Gold,9,High Value
+503,8422.74,54,5,22,26-35,West,Bronze,14,Standard
+504,7369.23,44,5,17,18-25,West,Bronze,10,Standard
+505,9828.789999999999,73,8,29,36-50,East,Silver,9,Standard
+506,6019.01,34,11,17,50+,North,Bronze,4,Standard
+507,10797.18,31,11,14,36-50,South,Bronze,10,Standard
+508,4578.69,39,3,16,18-25,West,Bronze,10,Standard
+509,6835.79,24,9,11,18-25,West,Silver,2,Standard
+510,9441.56,45,6,17,50+,South,Bronze,10,Standard
+511,9311.56,38,14,19,50+,North,Bronze,8,Standard
+512,10296.3,31,9,14,36-50,East,Silver,3,Standard
+513,15486.44,70,18,28,36-50,South,Bronze,8,High Value
+514,9798.74,31,6,12,50+,North,Bronze,9,Standard
+515,3818.48,28,4,11,26-35,North,Silver,14,Standard
+516,19874.65,72,14,23,26-35,North,Bronze,2,High Value
+517,13903.8,53,13,20,50+,West,Silver,1,Standard
+518,3307.97,34,7,15,50+,East,Bronze,12,Standard
+519,9315.2,54,9,24,50+,West,Bronze,8,Standard
+520,18750.42,78,13,30,36-50,West,Bronze,7,High Value
+521,16895.98,52,10,19,50+,South,Bronze,1,High Value
+522,20269.43,53,12,22,26-35,South,Bronze,5,High Value
+523,16457.43,54,12,22,50+,North,Bronze,1,High Value
+524,18143.46,65,8,24,18-25,North,Gold,3,High Value
+525,10200.91,56,11,21,50+,North,Bronze,10,Standard
+526,16995.95,47,11,16,18-25,West,Bronze,11,High Value
+527,9496.76,37,8,15,26-35,East,Silver,9,Standard
+528,22230.829999999998,72,11,28,50+,South,Bronze,4,High Value
+529,12827.14,60,8,24,26-35,North,Bronze,14,Standard
+530,16303.3,41,11,17,36-50,West,Gold,13,High Value
+531,14788.939999999999,45,13,18,36-50,East,Bronze,10,Standard
+532,9777.789999999999,67,7,23,50+,East,Gold,6,Standard
+533,9860.4,31,8,11,18-25,South,Silver,10,Standard
+534,22457.079999999998,69,12,27,18-25,South,Silver,13,High Value
+535,16553.13,62,17,24,26-35,North,Gold,5,High Value
+536,12623.869999999999,47,10,17,26-35,West,Bronze,10,Standard
+537,5007.5199999999995,28,8,13,18-25,East,Silver,8,Standard
+538,12269.22,61,6,25,18-25,West,Bronze,8,Standard
+539,12815.18,71,10,26,18-25,North,Silver,1,Standard
+540,6862.76,38,9,18,26-35,South,Silver,10,Standard
+541,9233.79,29,9,12,18-25,North,Silver,6,Standard
+542,6915.03,25,6,11,18-25,East,Silver,9,Standard
+543,16808.32,77,10,29,50+,North,Bronze,6,High Value
+544,4246.88,31,2,11,50+,West,Bronze,11,Standard
+545,13159.47,68,8,23,18-25,East,Gold,10,Standard
+546,13032.19,49,15,19,18-25,West,Silver,12,Standard
+547,12599.67,59,12,26,50+,North,Bronze,8,Standard
+548,21811.08,73,18,29,18-25,East,Silver,5,High Value
+549,7727.21,79,6,29,36-50,North,Bronze,5,Standard
+550,15563.27,39,8,15,18-25,South,Bronze,3,High Value
+551,9454.47,69,10,27,18-25,East,Gold,9,Standard
+552,10708.76,36,10,14,50+,East,Gold,5,Standard
+553,9573.32,87,10,29,36-50,East,Gold,5,Standard
+554,13752.41,36,9,14,50+,South,Silver,4,Standard
+555,15967.69,56,14,23,18-25,West,Bronze,2,High Value
+556,22430.78,73,12,26,18-25,East,Gold,7,High Value
+557,12071.17,64,6,24,36-50,North,Bronze,12,Standard
+558,11873.07,76,10,30,36-50,South,Bronze,5,Standard
+559,5708.86,36,4,15,18-25,South,Silver,13,Standard
+560,15362.58,46,10,19,36-50,North,Bronze,7,High Value
+561,17905.96,60,16,28,50+,East,Bronze,13,High Value
+562,24913.15,66,13,25,18-25,South,Silver,9,High Value
+563,12313.44,57,9,19,36-50,East,Bronze,3,Standard
+564,12232.75,36,12,15,26-35,North,Silver,4,Standard
+565,8397.93,57,9,24,18-25,West,Bronze,14,Standard
+566,14682.15,63,13,26,26-35,West,Silver,9,Standard
+567,11123.36,61,11,25,18-25,North,Bronze,9,Standard
+568,17268.59,47,11,22,26-35,North,Silver,3,High Value
+569,6055.099999999999,48,7,20,18-25,North,Bronze,6,Standard
+570,5196.17,18,8,13,26-35,East,Bronze,11,Standard
+571,6576.96,25,6,11,36-50,East,Bronze,7,Standard
+572,10803.86,56,12,23,50+,West,Gold,1,Standard
+573,4629.46,48,7,18,18-25,South,Gold,1,Standard
+574,11542.73,59,8,22,50+,West,Silver,12,Standard
+575,10940.66,79,6,28,36-50,East,Silver,5,Standard
+576,15884.3,61,14,24,26-35,West,Gold,14,High Value
+577,5202.57,56,4,22,26-35,East,Bronze,6,Standard
+578,5946.24,42,5,15,26-35,North,Bronze,14,Standard
+579,19461.5,58,16,26,50+,South,Bronze,1,High Value
+580,3146.92,21,8,10,18-25,West,Bronze,2,Standard
+581,17746.31,62,12,25,50+,South,Bronze,7,High Value
+582,18185.77,68,15,25,18-25,South,Silver,8,High Value
+583,16398.18,51,10,20,50+,East,Silver,7,High Value
+584,19218.22,56,14,23,36-50,West,Gold,2,High Value
+585,16830.21,64,16,25,18-25,West,Silver,3,High Value
+586,3850.06,26,5,10,26-35,West,Bronze,12,Standard
+587,5710.1,47,3,18,26-35,North,Silver,11,Standard
+588,15947.46,55,15,25,50+,North,Bronze,5,High Value
+589,14382.88,64,16,24,26-35,West,Gold,6,Standard
+590,11626.4,62,7,26,50+,North,Silver,6,Standard
+591,16426.12,60,15,22,26-35,South,Silver,14,High Value
+592,13502.37,45,11,15,26-35,East,Silver,8,Standard
+593,9282.63,40,11,17,50+,South,Bronze,8,Standard
+594,9156.2,61,8,24,50+,West,Gold,1,Standard
+595,10307.73,43,14,20,18-25,South,Bronze,8,Standard
+596,14106.49,59,13,19,26-35,North,Silver,10,Standard
+597,12630.449999999999,66,9,27,18-25,North,Silver,11,Standard
+598,6926.69,39,5,14,50+,East,Gold,11,Standard
+599,16669.66,43,9,20,50+,North,Silver,10,High Value
+600,4253.25,54,7,20,36-50,East,Silver,6,Standard
+601,19115.739999999998,72,16,28,26-35,West,Bronze,6,High Value
+602,6231.84,33,5,13,36-50,West,Silver,9,Standard
+603,18498.95,60,17,26,36-50,North,Bronze,11,High Value
+604,3644.47,27,3,11,18-25,South,Silver,11,Standard
+605,6042.33,55,7,23,50+,West,Silver,2,Standard
+606,16285.279999999999,65,13,25,50+,East,Bronze,3,High Value
+607,8254.33,34,9,15,50+,West,Bronze,1,Standard
+608,16573.52,65,12,25,50+,West,Gold,2,High Value
+609,14079.94,47,9,20,50+,West,Gold,4,Standard
+610,7873.39,38,11,16,26-35,East,Silver,13,Standard
+611,27618.73,77,15,29,50+,North,Silver,1,High Value
+612,4402.09,37,5,16,18-25,East,Gold,4,Standard
+613,5293.51,28,5,11,26-35,South,Gold,2,Standard
+614,8061.36,66,9,29,50+,West,Bronze,12,Standard
+615,10983.24,57,8,24,50+,South,Gold,8,Standard
+616,5726.77,23,10,10,36-50,East,Silver,13,Standard
+617,20450.15,77,13,32,50+,East,Bronze,10,High Value
+618,5561.23,64,5,24,26-35,East,Bronze,9,Standard
+619,10438.05,27,8,10,26-35,South,Bronze,12,Standard
+620,22651.36,70,14,28,36-50,South,Bronze,12,High Value
+621,16517.18,66,13,24,18-25,South,Silver,10,High Value
+622,11103.92,37,10,15,36-50,South,Bronze,8,Standard
+623,14675.52,50,9,16,26-35,East,Bronze,1,Standard
+624,5285.79,37,9,14,18-25,South,Bronze,2,Standard
+625,9679.6,47,9,15,18-25,East,Bronze,2,Standard
+626,14926.27,46,11,19,18-25,East,Silver,14,High Value
+627,14008.38,48,10,18,50+,West,Bronze,12,Standard
+628,7790.03,62,9,22,50+,South,Bronze,10,Standard
+629,15422.65,61,16,26,18-25,South,Silver,4,High Value
+630,15797.77,62,14,27,36-50,East,Gold,12,High Value
+631,16958.79,50,8,19,18-25,North,Silver,6,High Value
+632,5112.64,25,5,11,18-25,South,Silver,12,Standard
+633,6855.82,27,8,11,18-25,East,Silver,1,Standard
+634,17851.57,56,12,22,26-35,West,Bronze,10,High Value
+635,11387.97,33,10,14,26-35,North,Bronze,7,Standard
+636,3912.48,33,4,14,26-35,South,Gold,7,Standard
+637,9705.35,34,8,12,50+,West,Bronze,1,Standard
+638,1962.97,31,2,13,36-50,East,Gold,11,Standard
+639,19065.73,63,17,25,18-25,East,Bronze,12,High Value
+640,9964.88,34,10,17,50+,South,Silver,3,Standard
+641,8506.23,54,7,21,18-25,South,Silver,12,Standard
+642,10779.67,41,11,20,18-25,West,Bronze,13,Standard
+643,5275.63,41,6,22,50+,South,Bronze,7,Standard
+644,5272.05,46,5,15,50+,South,Bronze,7,Standard
+645,20442.79,49,9,17,36-50,North,Bronze,6,High Value
+646,11225.45,35,9,15,26-35,West,Gold,2,Standard
+647,12998.89,72,11,29,18-25,West,Bronze,2,Standard
+648,18692.81,50,10,19,50+,North,Bronze,2,High Value
+649,16156.789999999999,43,9,16,18-25,East,Bronze,7,High Value
+650,10796.539999999999,53,11,23,36-50,North,Silver,11,Standard
+651,5725.26,54,5,21,26-35,East,Gold,13,Standard
+652,11378.119999999999,66,7,23,50+,East,Bronze,2,Standard
+653,3532.1,20,5,10,36-50,East,Bronze,6,Standard
+654,5308.72,24,6,11,50+,West,Bronze,9,Standard
+655,11305.02,57,4,22,50+,West,Gold,4,Standard
+656,8523.02,52,7,21,50+,South,Bronze,6,Standard
+657,13132.27,59,13,26,18-25,North,Bronze,4,Standard
+658,6673.12,62,5,26,18-25,South,Bronze,14,Standard
+659,18001.0,56,12,23,26-35,West,Bronze,6,High Value
+660,3983.3199999999997,24,6,11,36-50,West,Bronze,1,Standard
+661,11883.16,63,12,26,18-25,South,Silver,12,Standard
+662,5288.2,24,6,11,18-25,East,Silver,10,Standard
+663,4576.63,41,5,17,18-25,North,Silver,2,Standard
+664,19932.9,76,9,28,50+,North,Bronze,2,High Value
+665,10414.35,68,7,27,50+,East,Silver,10,Standard
+666,16738.87,62,12,25,18-25,East,Silver,8,High Value
+667,8825.88,52,8,20,50+,South,Bronze,6,Standard
+668,18673.85,61,14,23,18-25,West,Bronze,3,High Value
+669,25502.86,67,12,27,26-35,North,Silver,9,High Value
+670,6145.09,23,9,11,26-35,West,Gold,8,Standard
+671,6451.26,32,8,16,18-25,East,Bronze,13,Standard
+672,21114.62,66,10,24,26-35,South,Silver,11,High Value
+673,11561.02,28,10,12,50+,West,Gold,12,Standard
+674,5129.82,30,6,11,26-35,South,Silver,6,Standard
+675,12316.86,65,10,29,36-50,South,Bronze,2,Standard
+676,8485.42,24,9,11,50+,East,Silver,11,Standard
+677,5035.38,32,8,16,18-25,South,Silver,9,Standard
+678,18029.29,49,10,19,50+,North,Gold,9,High Value
+679,19562.15,68,16,30,50+,North,Bronze,11,High Value
+680,21044.54,68,13,25,50+,West,Bronze,12,High Value
+681,9150.869999999999,42,9,14,26-35,South,Gold,12,Standard
+682,6326.74,27,7,10,36-50,North,Silver,14,Standard
+683,7697.52,29,9,11,26-35,South,Gold,7,Standard
+684,5765.67,33,6,11,36-50,West,Gold,4,Standard
+685,15154.28,41,13,16,26-35,North,Bronze,13,High Value
+686,8959.76,52,6,17,18-25,West,Silver,12,Standard
+687,7766.32,42,6,17,18-25,East,Silver,1,Standard
+688,7646.51,39,7,14,26-35,East,Bronze,14,Standard
+689,13551.23,61,11,23,50+,East,Silver,4,Standard
+690,8338.619999999999,71,8,25,50+,South,Silver,2,Standard
+691,12482.689999999999,42,9,17,26-35,West,Bronze,6,Standard
+692,5432.12,41,6,15,50+,East,Gold,1,Standard
+693,12791.85,44,12,17,36-50,North,Silver,8,Standard
+694,10781.53,64,11,27,50+,West,Gold,12,Standard
+695,4051.2599999999998,38,6,16,18-25,West,Silver,3,Standard
+696,8260.16,73,7,28,18-25,East,Bronze,4,Standard
+697,8613.55,49,7,22,26-35,East,Bronze,4,Standard
+698,13741.42,53,14,24,18-25,West,Silver,12,Standard
+699,14964.22,64,22,31,50+,North,Silver,13,High Value
+700,8766.55,51,7,20,50+,North,Silver,9,Standard
+701,5815.360000000001,50,7,18,36-50,West,Silver,7,Standard
+702,5068.92,35,5,12,18-25,West,Gold,9,Standard
+703,15791.68,42,10,19,50+,South,Bronze,6,High Value
+704,17266.92,51,14,20,26-35,South,Bronze,14,High Value
+705,13806.88,71,9,29,26-35,West,Bronze,2,Standard
+706,18792.989999999998,55,13,21,26-35,South,Silver,10,High Value
+707,8051.96,43,10,20,50+,East,Bronze,8,Standard
+708,9754.06,38,9,16,50+,North,Bronze,7,Standard
+709,15126.97,40,10,14,50+,South,Bronze,7,High Value
+710,3843.18,25,5,12,26-35,North,Bronze,3,Standard
+711,5945.37,51,7,23,36-50,East,Bronze,11,Standard
+712,9457.45,30,7,12,50+,South,Bronze,10,Standard
+713,18608.5,66,12,26,18-25,South,Silver,4,High Value
+714,7322.1900000000005,35,4,13,18-25,West,Gold,14,Standard
+715,13424.5,40,10,16,18-25,West,Bronze,11,Standard
+716,9879.55,32,11,15,18-25,North,Bronze,3,Standard
+717,25389.48,79,15,30,18-25,East,Gold,13,High Value
+718,10386.42,46,11,17,36-50,West,Bronze,1,Standard
+719,4601.91,31,5,12,36-50,West,Bronze,3,Standard
+720,9376.59,29,12,14,26-35,North,Silver,14,Standard
+721,12207.63,67,7,27,50+,South,Bronze,1,Standard
+722,4544.19,30,6,12,26-35,South,Silver,10,Standard
+723,10774.33,59,12,27,18-25,South,Bronze,1,Standard
+724,6303.15,39,8,18,26-35,East,Silver,6,Standard
+725,5521.79,35,4,11,50+,South,Bronze,4,Standard
+726,8746.34,51,7,21,36-50,South,Silver,9,Standard
+727,4437.66,62,8,25,36-50,South,Gold,4,Standard
+728,13241.64,49,12,16,36-50,North,Gold,9,Standard
+729,2694.36,39,2,18,26-35,South,Bronze,8,Standard
+730,12948.73,54,12,22,36-50,South,Bronze,2,Standard
+731,5333.05,36,5,12,50+,West,Silver,12,Standard
+732,10239.35,31,7,15,26-35,West,Bronze,7,Standard
+733,17758.37,57,15,22,36-50,East,Bronze,6,High Value
+734,18155.22,65,10,21,50+,South,Gold,6,High Value
+735,12504.41,41,8,15,18-25,North,Bronze,9,Standard
+736,6750.54,28,9,10,26-35,North,Silver,11,Standard
+737,15017.47,50,12,18,18-25,West,Silver,4,High Value
+738,12331.52,60,9,25,26-35,East,Silver,3,Standard
+739,6880.92,32,7,14,50+,East,Bronze,8,Standard
+740,13621.95,56,13,20,36-50,North,Silver,1,Standard
+741,3180.62,37,4,13,50+,East,Bronze,12,Standard
+742,25325.75,76,14,29,26-35,South,Silver,11,High Value
+743,21537.92,56,13,22,36-50,East,Silver,4,High Value
+744,10314.369999999999,37,11,16,18-25,South,Bronze,7,Standard
+745,5873.75,35,9,15,36-50,North,Bronze,5,Standard
+746,4609.49,36,6,16,36-50,North,Bronze,6,Standard
+747,5296.86,20,6,10,26-35,West,Gold,3,Standard
+748,19599.95,70,14,28,50+,East,Silver,9,High Value
+749,6763.45,47,7,17,18-25,North,Gold,8,Standard
+750,12660.91,64,10,27,36-50,North,Bronze,3,Standard
+751,11115.88,66,13,29,26-35,South,Gold,14,Standard
+752,14064.61,36,7,12,50+,North,Bronze,10,Standard
+753,15702.22,52,15,20,50+,South,Silver,6,High Value
+754,21443.62,77,15,28,26-35,West,Silver,14,High Value
+755,23934.38,72,16,27,26-35,North,Bronze,1,High Value
+756,25427.02,65,14,29,18-25,East,Silver,13,High Value
+757,18267.73,63,13,25,36-50,East,Silver,8,High Value
+758,10905.53,51,13,20,26-35,North,Bronze,7,Standard
+759,7518.62,58,6,20,50+,South,Silver,13,Standard
+760,6679.82,47,10,24,26-35,North,Bronze,14,Standard
+761,27805.1,77,15,30,18-25,West,Silver,3,High Value
+762,6186.54,38,4,17,50+,West,Gold,13,Standard
+763,4674.6900000000005,29,4,12,26-35,West,Bronze,9,Standard
+764,16645.38,60,15,22,26-35,East,Bronze,10,High Value
+765,19424.06,56,10,22,36-50,South,Bronze,3,High Value
+766,6272.2,32,9,13,36-50,South,Silver,7,Standard
+767,7075.95,54,7,27,26-35,North,Gold,5,Standard
+768,12846.81,70,8,25,18-25,North,Silver,14,Standard
+769,10504.57,32,10,10,50+,North,Bronze,5,Standard
+770,8803.96,65,9,26,26-35,South,Bronze,11,Standard
+771,6104.28,45,5,19,50+,South,Bronze,12,Standard
+772,7719.92,41,11,16,36-50,East,Gold,5,Standard
+773,15609.11,57,17,22,36-50,South,Bronze,8,High Value
+774,1840.23,26,3,10,50+,North,Bronze,9,Standard
+775,7559.679999999999,41,5,17,36-50,North,Bronze,6,Standard
+776,23728.5,71,16,25,36-50,North,Bronze,11,High Value
+777,10538.96,36,9,15,26-35,South,Bronze,14,Standard
+778,11078.8,40,9,17,50+,West,Bronze,14,Standard
+779,11710.98,39,11,17,36-50,West,Bronze,2,Standard
+780,6686.75,58,4,22,36-50,East,Gold,9,Standard
+781,9611.83,53,10,23,36-50,West,Gold,6,Standard
+782,18548.13,59,14,24,36-50,North,Gold,2,High Value
+783,10840.33,33,6,15,26-35,South,Silver,12,Standard
+784,9801.529999999999,50,9,20,26-35,East,Bronze,3,Standard
+785,21426.48,68,9,24,50+,West,Silver,5,High Value
+786,6651.18,34,6,13,18-25,East,Bronze,4,Standard
+787,7594.38,42,8,19,18-25,North,Silver,8,Standard
+788,13714.99,46,14,21,26-35,West,Bronze,11,Standard
+789,13800.55,48,15,16,50+,North,Bronze,2,Standard
+790,21595.67,61,11,22,50+,South,Bronze,7,High Value
+791,16908.8,56,9,23,36-50,East,Silver,13,High Value
+792,7773.14,37,9,14,36-50,East,Silver,3,Standard
+793,19574.61,56,10,21,36-50,East,Gold,6,High Value
+794,12818.17,52,11,20,26-35,East,Gold,4,Standard
+795,23119.14,62,13,25,18-25,North,Bronze,1,High Value
+796,12264.68,47,10,18,36-50,East,Bronze,3,Standard
+797,11633.59,34,10,16,36-50,South,Silver,4,Standard
+798,7161.51,37,7,17,36-50,West,Silver,14,Standard
+799,5117.04,33,3,13,26-35,North,Bronze,1,Standard
+800,7873.37,60,8,28,50+,West,Bronze,8,Standard
+801,13797.74,46,15,18,26-35,West,Gold,2,Standard
+802,7807.03,26,8,11,18-25,West,Bronze,13,Standard
+803,5681.95,24,6,10,50+,West,Bronze,14,Standard
+804,3192.68,28,4,14,18-25,North,Silver,7,Standard
+805,4692.0199999999995,44,5,18,26-35,North,Gold,8,Standard
+806,8146.83,48,6,20,18-25,South,Silver,14,Standard
+807,14324.07,39,9,16,18-25,South,Bronze,6,Standard
+808,10273.76,56,11,23,36-50,South,Gold,2,Standard
+809,8156.47,39,9,19,36-50,East,Bronze,9,Standard
+810,6213.4400000000005,37,4,11,36-50,West,Silver,5,Standard
+811,9018.11,28,8,12,18-25,West,Silver,5,Standard
+812,3991.87,27,4,11,36-50,South,Silver,13,Standard
+813,5596.75,28,5,14,18-25,North,Bronze,2,Standard
+814,4250.5,23,4,12,18-25,East,Bronze,12,Standard
+815,13042.67,80,8,30,50+,North,Gold,4,Standard
+816,14818.49,43,13,17,26-35,North,Gold,4,Standard
+817,5618.9,40,3,16,18-25,South,Bronze,6,Standard
+818,5000.98,70,6,28,36-50,North,Gold,2,Standard
+819,12393.83,65,9,23,18-25,North,Gold,14,Standard
+820,2896.5299999999997,31,4,13,18-25,East,Bronze,7,Standard
+821,2459.12,36,2,13,50+,East,Silver,2,Standard
+822,8091.0,38,6,13,18-25,North,Silver,6,Standard
+823,9497.54,44,9,18,50+,North,Bronze,5,Standard
+824,6208.1,39,7,17,50+,South,Bronze,4,Standard
+825,6619.2,53,6,26,26-35,North,Gold,6,Standard
+826,21168.14,57,19,24,26-35,South,Bronze,10,High Value
+827,11546.55,76,7,28,18-25,East,Silver,3,Standard
+828,9864.38,44,10,16,50+,North,Bronze,13,Standard
+829,9109.15,28,8,11,50+,South,Gold,9,Standard
+830,4076.5299999999997,56,5,25,36-50,South,Silver,8,Standard
+831,17269.04,84,22,29,50+,West,Bronze,7,High Value
+832,16599.3,55,15,19,36-50,South,Bronze,7,High Value
+833,16321.14,48,13,20,18-25,East,Bronze,1,High Value
+834,9987.55,33,10,14,26-35,South,Bronze,7,Standard
+835,18957.559999999998,73,13,27,18-25,West,Gold,4,High Value
+836,5481.849999999999,46,5,15,18-25,West,Bronze,7,Standard
+837,15846.81,68,16,28,36-50,West,Bronze,1,High Value
+838,13126.92,78,10,30,18-25,North,Bronze,3,Standard
+839,5682.69,41,5,13,50+,East,Bronze,2,Standard
+840,27082.53,81,14,29,18-25,North,Bronze,14,High Value
+841,13769.210000000001,42,11,16,18-25,West,Bronze,12,Standard
+842,8410.05,32,8,10,18-25,North,Silver,8,Standard
+843,15602.99,62,12,25,36-50,South,Bronze,7,High Value
+844,4454.9,29,7,12,18-25,North,Silver,8,Standard
+845,10734.17,41,8,14,36-50,South,Bronze,13,Standard
+846,8835.57,48,8,18,50+,West,Silver,11,Standard
+847,21834.96,67,16,25,36-50,West,Silver,6,High Value
+848,24380.739999999998,69,16,28,36-50,South,Silver,1,High Value
+849,8710.88,27,9,11,26-35,East,Bronze,12,Standard
+850,5282.28,32,4,12,18-25,West,Bronze,1,Standard
+851,5552.360000000001,31,4,11,26-35,East,Silver,7,Standard
+852,10068.63,60,12,26,50+,South,Silver,8,Standard
+853,19682.8,59,15,22,36-50,West,Bronze,12,High Value
+854,19066.64,55,13,24,26-35,North,Bronze,1,High Value
+855,21966.67,74,12,28,18-25,East,Bronze,9,High Value
+856,6154.9,30,4,12,36-50,West,Bronze,12,Standard
+857,18110.48,65,16,29,18-25,South,Silver,4,High Value
+858,9965.96,38,8,14,18-25,West,Silver,13,Standard
+859,6671.679999999999,41,5,20,50+,West,Gold,9,Standard
+860,9449.76,68,7,27,36-50,East,Silver,10,Standard
+861,11376.36,62,8,26,50+,West,Silver,4,Standard
+862,6155.19,38,5,14,18-25,South,Silver,13,Standard
+863,9682.47,31,6,11,26-35,North,Silver,5,Standard
+864,6003.87,36,4,15,50+,West,Bronze,11,Standard
+865,8089.09,51,7,17,50+,North,Silver,9,Standard
+866,13854.99,75,11,27,18-25,West,Bronze,6,Standard
+867,15414.94,63,15,28,26-35,East,Silver,4,High Value
+868,3627.13,23,3,10,26-35,East,Silver,6,Standard
+869,9923.0,53,9,21,26-35,North,Bronze,6,Standard
+870,5289.03,27,7,13,50+,East,Bronze,13,Standard
+871,19042.6,57,15,25,18-25,West,Silver,7,High Value
+872,6067.78,32,8,11,26-35,West,Bronze,10,Standard
+873,6360.49,32,8,12,26-35,East,Bronze,3,Standard
+874,9982.81,50,8,18,36-50,South,Bronze,10,Standard
+875,9595.39,57,8,23,26-35,West,Silver,14,Standard
+876,4974.65,39,7,15,26-35,West,Gold,3,Standard
+877,8818.71,55,8,22,18-25,North,Bronze,7,Standard
+878,5508.83,29,6,12,26-35,East,Bronze,10,Standard
+879,19161.94,59,12,22,18-25,South,Bronze,8,High Value
+880,26651.43,71,13,29,26-35,West,Silver,2,High Value
+881,5894.6900000000005,37,5,13,26-35,East,Bronze,10,Standard
+882,17971.75,68,13,26,26-35,North,Silver,13,High Value
+883,21351.09,66,14,30,50+,North,Gold,7,High Value
+884,15676.6,64,17,27,50+,West,Bronze,7,High Value
+885,7333.2,59,7,23,18-25,South,Bronze,6,Standard
+886,8178.29,64,6,28,18-25,South,Bronze,1,Standard
+887,12193.57,63,12,21,36-50,West,Silver,6,Standard
+888,14317.689999999999,52,14,22,36-50,North,Gold,5,Standard
+889,14448.960000000001,73,10,28,36-50,South,Bronze,13,Standard
+890,8519.31,68,6,28,36-50,North,Bronze,6,Standard
+891,15726.23,57,15,24,26-35,North,Bronze,14,High Value
+892,18964.079999999998,53,14,25,26-35,West,Silver,7,High Value
+893,6146.1,29,12,13,36-50,East,Gold,13,Standard
+894,6243.95,26,6,11,36-50,East,Bronze,3,Standard
+895,5092.22,34,6,15,18-25,West,Bronze,2,Standard
+896,11610.68,72,7,32,18-25,South,Silver,13,Standard
+897,20603.07,70,15,26,50+,North,Gold,10,High Value
+898,20144.02,51,12,25,18-25,South,Gold,3,High Value
+899,17536.72,65,17,29,36-50,West,Silver,2,High Value
+900,5805.8,37,5,14,26-35,North,Silver,9,Standard
+901,8017.02,55,7,20,26-35,North,Silver,9,Standard
+902,19864.01,69,14,25,26-35,North,Bronze,3,High Value
+903,9094.49,75,7,27,36-50,North,Bronze,2,Standard
+904,18615.4,65,10,25,36-50,West,Gold,2,High Value
+905,13495.57,71,9,27,26-35,South,Bronze,9,Standard
+906,11808.64,43,10,16,18-25,South,Silver,13,Standard
+907,13620.57,52,9,21,36-50,South,Silver,6,Standard
+908,11444.48,52,6,21,26-35,East,Silver,11,Standard
+909,8557.42,62,7,26,36-50,North,Gold,7,Standard
+910,13163.74,40,13,21,50+,North,Silver,5,Standard
+911,4904.75,52,6,24,50+,South,Bronze,12,Standard
+912,5583.75,24,8,11,36-50,West,Gold,13,Standard
+913,18345.75,64,13,24,50+,South,Silver,14,High Value
+914,14220.81,54,15,21,26-35,North,Bronze,2,Standard
+915,10295.8,34,10,14,50+,North,Silver,11,Standard
+916,20060.84,61,13,23,36-50,West,Bronze,9,High Value
+917,4111.38,21,10,10,26-35,South,Silver,9,Standard
+918,8849.86,45,7,16,36-50,North,Bronze,4,Standard
+919,14018.52,57,14,24,50+,North,Silver,4,Standard
+920,18443.97,52,11,19,18-25,East,Bronze,7,High Value
+921,6255.83,45,6,17,18-25,East,Silver,14,Standard
+922,11273.87,36,10,12,36-50,West,Bronze,6,Standard
+923,9034.93,46,8,18,50+,East,Gold,12,Standard
+924,11752.37,49,15,23,26-35,South,Bronze,10,Standard
+925,11038.21,64,7,28,36-50,South,Bronze,10,Standard
+926,10822.52,38,8,17,18-25,East,Bronze,14,Standard
+927,8546.48,39,8,18,36-50,South,Bronze,7,Standard
+928,7787.82,34,7,15,18-25,West,Bronze,9,Standard
+929,24913.79,78,15,28,18-25,East,Silver,14,High Value
+930,13646.34,63,5,24,36-50,West,Silver,5,Standard
+931,7489.7,32,7,11,26-35,North,Gold,8,Standard
+932,9471.81,50,8,16,36-50,North,Bronze,9,Standard
+933,18357.75,64,12,26,50+,West,Bronze,9,High Value
+934,11462.44,32,9,12,50+,East,Bronze,8,Standard
+935,10149.59,81,5,30,36-50,West,Bronze,1,Standard
+936,6017.61,65,5,24,26-35,West,Bronze,10,Standard
+937,16022.22,61,14,25,26-35,West,Bronze,11,High Value
+938,10520.41,41,13,17,50+,East,Silver,4,Standard
+939,13012.31,59,15,26,50+,North,Bronze,10,Standard
+940,13475.15,36,8,13,26-35,West,Bronze,4,Standard
+941,18706.16,52,13,22,26-35,South,Gold,7,High Value
+942,7883.82,43,12,19,26-35,West,Silver,9,Standard
+943,17875.77,61,15,22,36-50,North,Silver,14,High Value
+944,9051.8,33,8,13,18-25,West,Gold,6,Standard
+945,4042.08,32,3,14,18-25,North,Bronze,14,Standard
+946,9400.02,65,8,24,50+,North,Bronze,7,Standard
+947,7222.9800000000005,28,8,12,50+,South,Bronze,3,Standard
+948,19526.48,65,14,25,36-50,South,Bronze,8,High Value
+949,8298.47,35,8,15,50+,East,Gold,13,Standard
+950,10133.61,54,10,20,50+,East,Silver,14,Standard
+951,17648.079999999998,60,15,24,36-50,North,Silver,3,High Value
+952,5493.39,33,4,11,36-50,East,Gold,1,Standard
+953,12694.47,41,9,16,36-50,East,Bronze,6,Standard
+954,20905.01,76,15,29,50+,South,Gold,7,High Value
+955,4808.55,29,10,13,36-50,West,Bronze,11,Standard
+956,4234.03,50,6,20,18-25,East,Silver,4,Standard
+957,7104.2,49,7,23,18-25,South,Silver,3,Standard
+958,13876.76,75,17,28,18-25,South,Gold,12,Standard
+959,3151.0299999999997,29,5,10,36-50,East,Silver,7,Standard
+960,9023.02,55,5,20,36-50,South,Bronze,2,Standard
+961,3650.34,30,5,14,50+,South,Bronze,1,Standard
+962,6044.87,46,6,19,26-35,North,Bronze,6,Standard
+963,5760.6900000000005,29,6,12,26-35,West,Bronze,9,Standard
+964,19355.98,69,10,24,50+,East,Bronze,4,High Value
+965,7602.29,42,9,17,26-35,North,Gold,12,Standard
+966,11423.6,37,9,14,18-25,West,Gold,8,Standard
+967,11582.42,67,7,28,18-25,East,Gold,12,Standard
+968,11794.32,60,9,24,36-50,North,Gold,10,Standard
+969,2447.98,39,4,13,18-25,North,Gold,9,Standard
+970,12470.91,42,12,20,50+,North,Bronze,6,Standard
+971,32222.52,83,14,31,50+,South,Bronze,7,High Value
+972,5424.98,65,6,26,36-50,North,Bronze,5,Standard
+973,9744.33,27,8,10,18-25,South,Bronze,4,Standard
+974,12784.199999999999,41,10,18,26-35,East,Bronze,4,Standard
+975,17077.64,54,14,19,26-35,West,Gold,2,High Value
+976,19783.28,53,12,23,18-25,East,Bronze,2,High Value
+977,11194.12,53,14,26,50+,East,Gold,13,Standard
+978,5560.0,25,6,12,36-50,South,Gold,14,Standard
+979,19123.69,56,13,22,18-25,South,Silver,4,High Value
+980,15120.179999999998,74,8,29,18-25,West,Bronze,12,High Value
+981,7726.97,37,9,13,36-50,East,Silver,12,Standard
+982,4936.74,29,5,11,50+,North,Silver,14,Standard
+983,2598.29,33,3,12,50+,South,Bronze,5,Standard
+984,14385.4,47,12,19,18-25,South,Silver,5,Standard
+985,14352.42,46,11,17,26-35,West,Gold,6,Standard
+986,12724.33,73,14,32,26-35,East,Gold,10,Standard
+987,6488.47,53,8,19,36-50,North,Gold,4,Standard
+988,11065.9,77,11,28,36-50,West,Bronze,2,Standard
+989,8085.85,58,6,27,18-25,North,Bronze,8,Standard
+990,16123.16,57,12,25,50+,West,Bronze,5,High Value
+991,9006.43,47,9,22,26-35,South,Silver,8,Standard
+992,19737.56,67,11,26,26-35,West,Bronze,6,High Value
+993,12585.789999999999,45,12,21,36-50,West,Silver,9,Standard
+994,16115.65,44,12,15,18-25,East,Gold,11,High Value
+995,24593.61,70,15,30,50+,South,Gold,4,High Value
+996,11822.36,60,8,29,26-35,West,Gold,8,Standard
+997,2862.02,25,4,12,36-50,East,Silver,10,Standard
+998,9376.21,46,7,22,26-35,North,Bronze,2,Standard
+999,7559.61,33,9,12,50+,North,Bronze,12,Standard
+1000,21400.61,63,15,27,26-35,South,Bronze,7,High Value
